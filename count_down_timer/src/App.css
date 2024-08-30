@@ -1,0 +1,17 @@
+input {
+  height: 50px;
+  width: 70px
+}
+
+span {
+  padding: 5px;
+  /* font-size: xx-large; */
+  font-size : 60px
+}
+
+.timer {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
